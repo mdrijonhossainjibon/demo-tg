@@ -1,1 +1,0 @@
-export const DEMO_USER_ID = '6070955607'
